@@ -1,0 +1,76 @@
+/*
+-- Query: SELECT * FROM bank_project.credit_card_payment_detail
+LIMIT 0, 50000
+
+-- Date: 2020-04-20 05:44
+*/
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (1,'C0002','2020-04-15','Direct payment debit',500);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (2,'C0012','2020-04-15','Ticket movie',200);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (3,'C0013','2020-04-15','Top-up',100);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (4,'C0004','2020-04-15','Grab pay',1000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (5,'C0016','2020-04-15','Direct-pay-oline-market',1500);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (6,'C0010','2020-04-15','Food Panda pay',200);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (7,'C0011','2020-04-15','Line man pay',200);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (8,'C0014','2020-04-15','Amazon payment',1000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (9,'C0013','2020-04-15','Lazada payment',500);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (10,'C0012','2020-04-15','Shopee payment',500);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (11,'C0012','2020-04-16','Ais bill pay',350);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (12,'C0012','2020-04-16','Ticket movie',250);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (13,'C0013','2020-04-16','Top-up',100);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (14,'C0014','2020-04-16','True Move H bill pay',1000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (15,'C0016','2020-04-16','Netflix subcription',420);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (16,'C0012','2020-04-16','Top-up',500);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (17,'C0012','2020-04-16','Ticket movie',250);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (18,'C0013','2020-04-16','Grab pay',100);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (19,'C0014','2020-04-16','Grab pay',1000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (20,'C0016','2020-04-16','Mk payment',1195);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (21,'C0015','2020-04-17','YouTube subcription',99);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (22,'C0017','2020-04-17','Joox subcription',69);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (23,'C0017','2020-04-17','Apple music subcription',69);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (24,'C0016','2020-04-17','Spotify subscription',99);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (25,'C0014','2020-04-17','AppleTV subscription',199);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (26,'C0018','2020-04-17','NBA membership subscription',2500);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (27,'C0018','2020-04-17','Nintendo online subscription',299);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (28,'C0017','2020-04-17','Just dance subscription',349);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (29,'C0016','2020-04-17','Sayuri membership',8000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (30,'C0014','2020-04-17','Booking payment',2499);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (31,'C0011','2020-04-18','Agoda',350);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (32,'C0015','2020-04-18','Traveloga payment',250);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (33,'C0011','2020-04-18','BananIT payment',5000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (34,'C0016','2020-04-18','SamsungTV subscription',1000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (35,'C0017','2020-04-18','Netflix subcription',420);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (36,'C0018','2020-04-18','Top-up',500);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (37,'C0019','2020-04-18','Ticket movie',250);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (38,'C0020','2020-04-18','Facebook ads',100);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (39,'C0013','2020-04-18','Grab pay',1000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (40,'C0014','2020-04-18','Mk payment',1195);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (41,'C0005','2020-04-19','Thairath tv subcription',592);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (42,'C0017','2020-04-19','Dtac bill pay',2000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (43,'C0004','2020-04-19','Thairath news subcription',450);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (44,'C0013','2020-04-19','Shoppee payment',2550);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (45,'C0013','2020-04-19','Work point tv Hd subcription',570);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (46,'C0018','2020-04-19','Line man pay',700);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (47,'C0012','2020-04-19','AIS bill pay',1340);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (48,'C0018','2020-04-19','Lazada payment',1090);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (49,'C0011','2020-04-19','Youtube subcription',160);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (50,'C0016','2020-04-20','Apple TV subcription',444);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (51,'C0004','2020-04-20','NBA membership subcription',830);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (52,'C0011','2020-04-20','Yahoo ads',2450);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (53,'C0019','2020-04-20','Amazon payment',660);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (54,'C0009','2020-04-20','Spotify subcription',195);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (55,'C0007','2020-04-20','Food panda pay',658);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (56,'C0015','2020-04-20','Booking.com payment',1830);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (57,'C0010','2020-04-20','Justdance subcription',890);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (58,'C0013','2020-04-20','Vip card parking',150);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (59,'C0011','2020-04-20','Traveloga payment',1800);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (60,'C0011','2020-04-21','True move bill pay',2100);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (61,'C0007','2020-04-21','Nintendo online subcription',1250);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (62,'C0014','2020-04-21','Ais play subcription',655);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (63,'C0014','2020-04-21','Pornhub premium membership subcription',990);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (64,'C0010','2020-04-21','Samsung Smart tv support  subcription',1195);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (65,'C0001','2020-04-21','I care  Apple .inc subcription',2110);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (66,'C0014','2020-04-21','Zoom vip subcription',450);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (67,'C0019','2020-04-21','Tweeter ads',3150);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (68,'C0013','2020-04-21','Lg service care subcription',1000);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (69,'C0003','2020-04-21','Hentai tv.com subcription',650);
+INSERT INTO `` (`credit_payment_id`,`credit_card_id`,`payment_date`,`payment_description`,`price`) VALUES (70,'C0002','2020-04-21','Facebook ads',2300);

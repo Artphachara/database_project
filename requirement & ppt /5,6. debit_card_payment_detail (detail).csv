@@ -1,0 +1,11 @@
+debit_payment_id,debit_card_id,payment_date,payment_description,price
+1,D0001,2020-04-14,"Direct Payment Debit",500
+2,D0002,2020-04-14,"Ticket Movie",200
+3,D0003,2020-04-14,Top-up,100
+4,D0004,2020-04-14,"Grab Pay",1000
+5,D0006,2020-04-16,Direct-Pay-Online-Market,1500
+6,D0001,2020-04-16,"Direct Payment Debit",500
+7,D0002,2020-04-17,"Ticket Movie",200
+8,D0003,2020-04-17,Top-up,100
+9,D0004,2020-04-20,"Grab Pay",1000
+10,D0006,2020-04-20,Direct-Pay-Online-Market,1500
